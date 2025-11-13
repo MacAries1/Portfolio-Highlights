@@ -30,3 +30,13 @@ Welcome! This repo showcases my most impactful work across data engineering, orc
   - Implemented robust error handling and logging for message delivery and processing
   - Validated end-to-end flow with test payloads and response tracking
 - **Repo:** [Required_Project_24.2-Constructing_a_Web_Server_Using_Kafka](https://github.com/MacAries1/Required_Project_24.2-Constructing_a_Web_Server_Using_Kafka)
+### Introduction to Machine Learning and Advanced Probability (MIT xPro Final Assignment 20.1)
+- **Tools:** Python, Jupyter Notebook, scikit-learn, NumPy, Matplotlib
+- **Challenge:** Apply machine learning techniques and probabilistic modeling to a structured dataset using real-world scenarios.
+- **Solution:** Built and evaluated multiple models (e.g., logistic regression, decision trees), calculated conditional probabilities, and visualized performance metrics.
+- **Impact:** Demonstrated end-to-end ML workflow—from data prep and feature engineering to model evaluation and interpretation.
+- **Highlights:**
+  - Two comprehensive Jupyter notebooks with code, outputs, and inline explanations
+  - Applied statistical reasoning to guide model selection and tuning
+  - Visualized confusion matrices, ROC curves, and probability distributions
+- **Repo:** [Required_Final_Assignment_20.1-Introduction_to_Machine_Learning_and_Advanced_Probability_starter](https://github.com/MacAries1/Required_Final_Assignment_20.1-Introduction_to_Machine_Learning_and_Advanced_Probability_starter)
