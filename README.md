@@ -20,7 +20,7 @@ Welcome! This repo showcases my most impactful work across data engineering, orc
   - Tuned stored procedures for performance and maintainability
   - Documented schema and ETL flow for reproducibility
 - **Repo:** *(Coming soon)*
- ### Constructing a Web Server Using Kafka (MIT xPro Project 24.2)
+ ### Handling Big Data with Mosquitto, ThingsBoard, and Kafka (MIT xPro Project 24.2)
 - **Tools:** Python, Flask, Kafka, Docker, REST APIs
 - **Challenge:** Build a web server that receives HTTP requests, publishes messages to Kafka, and processes them asynchronously.
 - **Solution:** Designed a Flask-based web server that publishes incoming requests to a Kafka topic. A separate consumer service processes the messages and returns structured responses.
