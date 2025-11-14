@@ -11,9 +11,9 @@ Welcome! This repo showcases my most impactful work across data engineering, orc
 - **Impact:** Reduced sync time by 60%, improved reliability, and enabled hourly updates without manual intervention.
 - **Repo:** *(Coming soon)*
 ### SCDOT DataMart & Dashboard (2-week delivery)
-- **Tools:** SQL Server, SSRS, T-SQL, Kimball methodology
+- **Tools:** SQL Server Integration Service, VS, Power BI, T-SQL, Kimball methodology
 - **Challenge:** Deliver a complete DataMart and dashboard for South Carolina Department of Transportation under tight deadlines.
-- **Solution:** Designed a dimensional model using Kimball principles, implemented ETL pipelines, and built SSRS dashboards aligned with stakeholder KPIs.
+- **Solution:** Designed a dimensional model using Kimball principles, implemented ETL pipelines, and built Power BI dashboards aligned with stakeholder KPIs.
 - **Impact:** Delivered a fully functional reporting solution in 2 weeks, enabling clear visibility into transportation metrics and decision-making.
 - **Highlights:** 
   - Modeled fact and dimension tables with clear grain and lineage
