@@ -5,6 +5,11 @@ Welcome! This repo showcases my most impactful work across data engineering, orc
 
 ## 🔧 Featured Projects
 
+### Genesis Health Care Automatic Medicaid Claims
+- **Problem:** Medicaid claim data arrived in the warehouse from AthenaDW (App + API) containing only first‑insurance paid transactions. The existing Selenium automation (C#) could only be executed via dotnet test from the command line, limiting reliability and scheduling.
+- **Solution:** Rebuilt SQL logic to correctly join and normalize inconsistent AthenaDW data. Cloned and refactored the Selenium automation to improve test methods, stabilize execution, and support scheduled runs.
+- **Impact:** Enabled weekly claim extraction with accurate, audit‑ready data aligned with Accounting guidelines. Automated the Selenium process via Windows Task Scheduler to ensure consistent, hands‑off processing.
+- **Repo:** *(Coming soon)*### Genesis Medicaid Claims
 ### Ironman API Sync Optimization
 - **Problem:** Hourly syncs were slow and unreliable due to nested CTEs and ambiguous EventIDs.
 - **Solution:** Refactored queries, replaced EventID with a stable surrogate key, and implemented retry logic.
